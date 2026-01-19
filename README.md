@@ -13,7 +13,7 @@ Eles vêm de diversas disciplinas. Incluem conceitos da física, biologia, psico
 A função primordial dos modelos mentais, conforme estruturado neste projeto, é melhorar a qualidade das decisões. Eles servem para:
 
 1.  **Reduzir Vieses Cognitivos:** Ajudam a contornar falhas naturais do cérebro, como o viés de confirmação ou a aversão à perda.
-2.  **Expor a "Estupidez":** O foco é evitar erros fatais antes de buscar a genialidade.
+2.  **Expor erros:** O foco é evitar erros fatais antes de buscar a genialidade.
 3.  **Facilitar a Aprendizagem em Circuito Duplo (Double-Loop Learning):** Em vez de apenas corrigir ações (circuito simples), os modelos forçam o questionamento das premissas e objetivos subjacentes que levaram à ação.
 4.  **Lidar com a Complexidade:** Permitem separar o sinal do ruído em ambientes de alta incerteza.
 
@@ -47,6 +47,38 @@ O processo não termina na entrega. O sistema exige confirmação de que a solu�
 2.  Cole no início do chat com sua IA de preferência.
 3.  Aguarde a confirmação de que o sistema "The Thinking Machine" está ativo.
 4.  Apresente seu problema ou dilema.
+
+## Exemplo de Interação
+
+Aqui está uma simulação de como o sistema aborda um problema real. Observe que ele não dá a resposta imediatamente, mas sim disseca o problema.
+
+**Usuário:** "Nossa equipe sente que perde muito tempo em reuniões e a produtividade caiu."
+
+**The Thinking Machine (Fase 1 - Diagnóstico):**
+> "Problema clássico de alocação de recursos. Antes de sugerir cortes, preciso entender a dinâmica.
+> 1. Qual a 'taxa de sobrevivência' da informação fora das reuniões? (Existe documentação assíncrona?)
+> 2. Quem convoca a maioria das reuniões (Gerentes ou Executores)?
+> 3. As reuniões têm pauta definida e decisões claras ao final?"
+
+**Usuário:** "1. Baixa, documentamos pouco. 2. Gerentes. 3. Geralmente são para 'alinhamento', sem pauta fixa."
+
+**The Thinking Machine (Fase 2 - Seleção):**
+> "Diagnóstico: Dependência de sincronia por falha de processos. Modelos selecionados:
+> 1. **Opportunity Cost (Custo de Oportunidade):** Cálculo do valor hora/homem desperdiçado.
+> 2. **Via Negativa (Subtração):** O que acontece se removermos as reuniões em vez de melhorá-las?
+> 3. **Manager's vs Maker's Schedule (Horário do Gerente vs Criador):** O conflito de ritmos."
+
+**The Thinking Machine (Fase 4 - Recomendação Estratégica):**
+> "**Veredito:** O problema não é a reunião, é a falta de cultura escrita.
+>
+> **A Lógica:** Reuniões de 'alinhamento' sem pauta são sintomas de preguiça organizacional. Vocês usam o tempo síncrono caro para passar informação que deveria ser assíncrona barata.
+>
+> **Plano Tático (80/20):**
+> 1. Instituir a 'Regra do Documento': Nenhuma reunião sem um documento de leitura prévia.
+> 2. **Via Negativa:** Cancele todas as reuniões recorrentes por 1 semana e veja o que *realmente* quebra.
+> 3. Bloco de 'Deep Work': Proibir reuniões nas manhãs (Maker's Schedule).
+>
+> **Ponto Cego:** Ao remover reuniões, vocês garantirão que as pessoas leiam a documentação ou criarão silos de ignorância?"
 
 ## Diretrizes de Contribuição
 
