@@ -6,7 +6,8 @@ Este repositório contém a estrutura lógica e os protocolos operacionais para 
 
 Modelos mentais são representações internas da realidade externa. Eles funcionam como mapas cognitivos. O mapa não é o território, mas é a ferramenta que usamos para navegar por ele. Como o mundo é complexo demais para ser compreendido em sua totalidade, nosso cérebro utiliza essas simplificações para processar informações e agir.
 
-Eles vêm de diversas disciplinas. Incluem conceitos da física, biologia, psicologia, economia e engenharia. Quando você possui apenas um modelo (como um martelo), todos os seus problemas se parecem com a mesma coisa (um prego). A proposta deste repositório é fornecer uma caixa de ferramentas completa.
+Eles vêm de diversas disciplinas. Incluem conceitos da física, biologia, psicologia, economia e engenharia. Quando você possui apenas um modelo (como um martelo), todos os seus problemas se parecem com a mesma coisa (um prego). 
+A proposta deste repositório é fornecer uma caixa de ferramentas completa. Ou, pelo menos, garantir que você tenha mais do que apenas um martelo.
 
 ## Para Que Servem?
 
